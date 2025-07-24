@@ -1,4 +1,4 @@
-                                                              ## Hi! I’m Maryam 👋
+                                                        # Hi! I’m Maryam 👋
 
 Welcome to my GitHub profile :)
 
