@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 
 <p align="center">
- Everything about me in one place — projects, goals & geeky stuff.Just a DevOps nerd building cool things and documenting the chaos.
+ <b> Everything about me in one place. Projects, goals & geeky stuff. Just a DevOps nerd building cool things and documenting the chaos.</b>
 </p>
 
 <hr>
