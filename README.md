@@ -7,8 +7,6 @@
 
 <hr>
 
-## 🏆 GitHub Trophies
-
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Maryam-Tufail&theme=onedark&margin-w=10&margin-h=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
