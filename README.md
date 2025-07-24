@@ -1,11 +1,12 @@
-Hi! I’m Maryam 👋
 
-Welcome to my GitHub profile :)
+<h1 align="center">Hi 👋, I'm Maryam</h1>
 
-🧠 Everything about me in one place — projects, goals & geeky stuff.  
+<p align="center">
+🧠 Everything about me in one place — projects, goals & geeky stuff.<br>
 ⚙️ Just a DevOps nerd building cool things and documenting the chaos.
+</p>
 
----
+<hr>
 
 ## 🏆 GitHub Trophies
 
