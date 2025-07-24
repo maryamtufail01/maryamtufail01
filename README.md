@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi! I’m Maryam 👋
 
-<!--
-**Maryam-Tufail/Maryam-Tufail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile :)
 
-Here are some ideas to get you started:
+🧠 Everything about me in one place — projects, goals & geeky stuff.  
+⚙️ Just a DevOps nerd building cool things and documenting the chaos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Maryam-Tufail&theme=onedark&margin-w=10&margin-h=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 What I’m Working On
+
+- 🌐 Automating deployments with Bash, Apache, and MySQL  
+- 📦 Learning Docker and containerizing Laravel apps  
+- ☁️ Exploring CI/CD using GitHub Actions  
+- 🛠️ Improving my skills in YAML, Bash scripting, and Apache  
+
+---
+
+## 📂 Some of My Projects
+
+- [🎬 Media App Backend](https://github.com/maryam12144/media-app-backend) — Laravel backend for media management  
+- [🌱 Exercise Tracker](https://github.com/maryam12144/exercise-app-backend) — Personal project to learn full-stack DevOps  
+- More coming soon...
+
+---
+
+## 🧰 Skills
+
+`Linux` · `Apache` · `MySQL` · `PHP` · `Laravel` · `Bash`  
+`Docker (learning)` · `Git & GitHub` · `CI/CD Basics` · `Markdown`
+
+---
+
+## 📊 GitHub Stats
+
+![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam-Tufail&show_icons=true&theme=tokyonight&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Tufail&layout=compact&theme=tokyonight&langs_count=6)
+
+---
+
+## 📬 Let’s Connect
+
+- GitHub: [@Maryam-Tufail](https://github.com/Maryam-Tufail)  
+- Email: maryamtufail190@gmail.com  
+- LinkedIn: [linkedin.com/in/maryam-tufail](https://www.linkedin.com/in/maryam-tufail)
+
