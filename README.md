@@ -7,7 +7,7 @@
 
 <hr>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Maryam-Tufail&theme=onedark&margin-w=10&margin-h=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=onedark&margin-w=10&margin-h=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -23,7 +23,7 @@
 ## 📂 Some of My Projects
 
 - [🎬 Media App Backend](https://github.com/maryam12144/media-app-backend) — Laravel backend for media management  
-- [🌱 Exercise Tracker](https://github.com/maryam12144/exercise-app-backend) — Personal project to learn full-stack DevOps  
+- [🌱 Exercise Tracker](https://github.com/maryamtufail01/exercise-app-backend) — Personal project to learn full-stack DevOps  
 - More coming soon...
 
 ---
@@ -37,14 +37,14 @@
 
 ## 📊 GitHub Stats
 
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam-Tufail&show_icons=true&theme=tokyonight&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Tufail&layout=compact&theme=tokyonight&langs_count=6)
+![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=tokyonight&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtufail01&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
 ## 📬 Let’s Connect
 
-- GitHub: [@Maryam-Tufail](https://github.com/Maryam-Tufail)  
+- GitHub: [@maryamtufail01](https://github.com/maryamtufail01)  
 - Email: maryamtufail190@gmail.com  
 - LinkedIn: [linkedin.com/in/maryam-tufail](https://www.linkedin.com/in/maryam-tufail)
 
