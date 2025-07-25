@@ -1,0 +1,19 @@
+name: Update README with recent commits
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: maryamtufail01
+          committer_email: maryamtufail190@gmail.com
+          max_post_count: 5
+          disable_writing_output_files: false
+          comment_tag_name: "COMMITS"
