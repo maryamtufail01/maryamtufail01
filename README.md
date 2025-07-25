@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maryam</h1>
+<h1 align="center">Hi 👋, I'm Maryam </h1>
 
 <p align="center">
  <b> Everything about me in one place: projects, goals, and geeky stuff. Just a DevOps nerd building cool things and documenting the chaos.</b>
