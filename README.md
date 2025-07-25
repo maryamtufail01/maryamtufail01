@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 
 <p align="center">
@@ -35,6 +34,15 @@
 
 ---
 
+## 💻 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-%23007ACC?style=flat&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat&logo=github-actions&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=tokyonight&hide_title=true)  
@@ -47,4 +55,3 @@
 - GitHub: [@maryamtufail01](https://github.com/maryamtufail01)  
 - Email: maryamtufail190@gmail.com  
 - LinkedIn: [linkedin.com/in/maryam-tufail](https://www.linkedin.com/in/maryam-tufail)
-
