@@ -36,4 +36,5 @@ jobs:
           git config --global user.email 'maryamtufail190@gmail.com'
           git add README.md
           git commit -m "Update README with latest commits" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
