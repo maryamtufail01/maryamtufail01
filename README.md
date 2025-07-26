@@ -91,4 +91,4 @@
 
 ---
 
-<p align="center"><i>"Keep going until it clicks — then automate it."</i></p>
+<p align="center"><i>"Keep going until it clicks; then automate it."</i></p>
