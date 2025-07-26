@@ -58,13 +58,13 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
 
 ---
 
-## 📂 Some of My Projects
+## 🛠️ Featured Projects
 
-- [🎬 Media App Backend](https://github.com/maryam12144/media-app-backend) — Laravel backend for media management
-- [🌱 Exercise Tracker](https://github.com/maryam12144/exercise-app-backend) — Personal project to learn full-stack DevOps
-- More coming soon...
-
----
+| Name | Description | Tech |
+|------|-------------|------|
+| [Exercise App Backend](https://github.com/Maryam12144/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
+| [Media App Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend with login/signup | React, Axios |
+| more coming soon... |
 
 ## 🧰 Skills
 
