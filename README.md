@@ -5,6 +5,7 @@
 
 </p>
 
+---
 
 </br>
 
@@ -13,6 +14,8 @@
   <i>Everything about me in one place: projects, goals & geeky stuff
 Just a DevOps nerd building cool things and documenting the chaos.</i>
 </p>
+
+---
 
 </br>
 
