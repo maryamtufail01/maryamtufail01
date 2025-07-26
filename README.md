@@ -3,7 +3,7 @@
 </p>
 
 ---
-</br>
+
 
 <p align="center">
   🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
@@ -12,7 +12,6 @@
 </p>
 
 ---
-</br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=gruvbox" />
