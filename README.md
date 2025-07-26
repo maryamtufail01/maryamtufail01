@@ -59,7 +59,7 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
 
 | Name | Description | Tech |
 |------|-------------|------|
-| [Exercise App Backend](https://github.com/Maryam12144/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
+| [Exercise App Backend](https://github.com/maryamtufail01/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
 | [Media App Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend with login/signup | React, Axios |
 
 ---
