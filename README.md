@@ -78,6 +78,8 @@
 
 ---
 
+<!--COMMITS-->
+
 ## 💻 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-%23007ACC?style=flat&logo=linux&logoColor=white)
