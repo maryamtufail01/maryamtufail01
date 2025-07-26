@@ -6,6 +6,7 @@
 </p>
 
 ---
+</br>
 
 <p align="center">
   🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
@@ -13,6 +14,7 @@
 Just a DevOps nerd building cool things and documenting the chaos.</i>
 </p>
 
+---
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
