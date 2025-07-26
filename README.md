@@ -70,8 +70,11 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
   <a href="mailto:maryamtufail01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Maryam12144">
+  <a href="https://github.com/maryamtufail01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+<a href="https://www.linkedin.com/in/maryam-tufail">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
