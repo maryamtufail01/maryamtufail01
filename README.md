@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F78A22&center=true&width=700&lines=Hi%2C+I'm+Maryam+Tufail;DevOps+Learner+%7C+Linux+Explorer+%7C+Bash+Scripter;Learning+Docker%2C+CI%2FCD%2C+Nginx+and+more" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F78A22&center=true&width=800&lines=Hi%2C+I'm+Maryam+Tufail;DevOps+Learner+%7C+Linux+Explorer+%7C+Bash+Scripter;Learning+Docker%2C+CI%2FCD%2C+Nginx+and+more" alt="Typing SVG" />
 
 
 </p>
