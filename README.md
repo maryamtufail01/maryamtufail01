@@ -1,27 +1,22 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F78A22&center=true&width=800&lines=Hi%2C+I'm+Maryam+Tufail;DevOps+Learner+%7C+Linux+Explorer+%7C+Bash+Scripter;Learning+Docker%2C+CI%2FCD%2C+Nginx+and+more" alt="Typing SVG" />
-
-
 </p>
 
 ---
-
 </br>
 
 <p align="center">
   🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
-  <i>Everything about me in one place: projects, goals & geeky stuff
-Just a DevOps nerd building cool things and documenting the chaos.</i>
+  <i>Everything about me in one place: projects, goals & geeky stuff<br>
+  Just a DevOps nerd building cool things and documenting the chaos.</i>
 </p>
 
 ---
-
 </br>
 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=gruvbox" />
+</p>
 
 ---
 
@@ -46,11 +41,13 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maryamtufail01&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-  
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=tokyonight&hide_title=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
 
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtufail01&layout=compact&theme=tokyonight&langs_count=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtufail01&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
 
@@ -79,7 +76,7 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
 
 ---
 
-## 📫 Connect With Me
+## 📢 Connect With Me
 
 <p align="center">
   <a href="mailto:maryamtufail01@gmail.com">
@@ -88,7 +85,7 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
   <a href="https://github.com/maryamtufail01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/maryam-tufail">
+  <a href="https://www.linkedin.com/in/maryam-tufail">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
