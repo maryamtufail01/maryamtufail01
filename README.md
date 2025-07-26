@@ -1,47 +1,74 @@
-# 👋 Hi, I'm Maryam Tufail
 
-🚀 **DevOps Learner** | 🐧 Linux Explorer | 🛠️ Bash Scripter  
-Currently diving deep into Docker, GitHub Actions, and Nginx.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78A22&center=true&width=435&lines=Hi%2C+I'm+Maryam+Tufail;DevOps+Learner+%7C+Linux+Explorer+%7C+Bash+Scripter;Learning+Docker%2C+CI%2FCD%2C+Nginx+and+more" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
+  <i>Currently diving deep into Docker, GitHub Actions, and Nginx.</i>
+</p>
+
+---
+
+## 🔧 Tools & Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maryam12144&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam12144&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🧠 What I'm Learning Right Now
+
 - ⚙️ GitHub Actions (CI/CD)
 - 🐳 Docker & Docker Compose
-- 🌐 Nginx server setup
-- 🐘 MySQL database operations
-- 📜 Bash scripting
+- 🌐 Nginx configuration
+- 🐘 MySQL and database migrations
+- 📜 Bash scripting with automation
 
 ---
 
-## 🛠️ Projects I'm Working On
+## 🛠️ Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [MoveMate Backend](https://github.com/Maryam12144/exercise-app-backend) | Laravel API for an exercise tracking app | Laravel, MySQL |
-| [MoveMate Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend connected to the backend | React, Axios |
-
----
-
-## 🧰 Tools I Use
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+| Name | Description | Tech |
+|------|-------------|------|
+| [Exercise App Backend](https://github.com/Maryam12144/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
+| [Media App Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend with login/signup | React, Axios |
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-- 📧 Email: `maryamtufail01@gmail.com`
-- 🐙 GitHub: [@maryamtufail01](https://github.com/maryamtufail01)
+<p align="center">
+  <a href="mailto:maryamtufail01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Maryam12144">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> _“Keep going until it clicks — then automate it.”_
-
+<p align="center"><i>"Keep going until it clicks — then automate it."</i></p>
