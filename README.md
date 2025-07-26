@@ -8,7 +8,8 @@
 
 <p align="center">
   🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
-  <i>Currently diving deep into Docker, GitHub Actions, and Nginx.</i>
+  <i>Everything about me in one place: projects, goals & geeky stuff
+Just a DevOps nerd building cool things and documenting the chaos.</i>
 </p>
 
 ---
