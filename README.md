@@ -13,12 +13,9 @@
 Just a DevOps nerd building cool things and documenting the chaos.</i>
 </p>
 ---
-
-<p align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
 
 ---
 
@@ -47,17 +44,12 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam12144&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
   
 ![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=tokyonight&hide_title=true)  
 
-</p>
-
-<p align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtufail01&layout=compact&theme=tokyonight&langs_count=6)
 
-</p>
 ---
 
 ## 🧠 What I'm Learning Right Now
