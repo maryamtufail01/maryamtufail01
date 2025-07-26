@@ -75,6 +75,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamtufail01&theme=github-compact" alt="Activity Graph" />
+</p>
+
+
 ## 📢 Connect With Me
 
 <p align="center">
