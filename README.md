@@ -43,7 +43,7 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam12144&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maryamtufail01&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
   
@@ -68,7 +68,7 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
 
 | Name | Description | Tech |
 |------|-------------|------|
-| [Exercise App Backend](https://github.com/Maryam12144/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
+| [Exercise App Backend](https://github.com/maryamtufail01/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
 | [Media App Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend with login/signup | React, Axios |
 | more coming soon... |
 
