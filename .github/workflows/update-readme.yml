@@ -1,19 +1,36 @@
-name: Update README with recent commits
+name: Update README with recent GitHub commits
 
 on:
   schedule:
-    - cron: "0 * * * *"  # runs every hour
+    - cron: "0 * * * *"  # every hour
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+
+      - name: Generate recent commits section
+        uses: lowlighter/metrics@latest
         with:
-          committer_username: maryamtufail01
-          committer_email: maryamtufail190@gmail.com
-          max_post_count: 5
-          disable_writing_output_files: false
-          comment_tag_name: "COMMITS"
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          config_output: svg
+
+      - name: Embed generated SVG in README
+        run: |
+          sed -i '/<!--COMMITS-->/r metrics.svg' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'maryamtufail01'
+          git config --global user.email 'maryamtufail190@gmail.com'
+          git add README.md
+          git commit -m "Update README with latest commits" || echo "No changes to commit"
+          git push
