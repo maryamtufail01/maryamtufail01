@@ -43,6 +43,8 @@ Just a DevOps nerd building cool things and documenting the chaos.</i>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam12144&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Tufail&layout=compact&theme=tokyonight&langs_count=6)
+
 ---
 
 ## 🧠 What I'm Learning Right Now
