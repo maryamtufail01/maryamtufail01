@@ -12,7 +12,7 @@
   <i>Everything about me in one place: projects, goals & geeky stuff
 Just a DevOps nerd building cool things and documenting the chaos.</i>
 </p>
----
+
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
