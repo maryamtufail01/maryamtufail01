@@ -23,40 +23,40 @@
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://httpd.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/apache/E95420" alt="Apache" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="48" height="48"/>
+  <a href="https://www.laravel.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="48" height="48" style="filter: invert(100%)"/>
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="CI/CD" alt="CI/CD" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/jenkins/D24939" alt="CI/CD" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="40" height="40"/>
   </a>
 </p>
 
