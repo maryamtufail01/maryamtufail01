@@ -2,7 +2,7 @@ name: Update README with recent GitHub commits
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour
+    - cron: "0 18 * * 0"  # Every Sunday 11 PM PKT
   workflow_dispatch:
   
 permissions:
