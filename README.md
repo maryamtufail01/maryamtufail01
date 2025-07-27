@@ -49,15 +49,6 @@
 
 ---
 
-## 📈 Recent GitHub Activity
-
-<!--COMMITS-->
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
 ## 🧠 What I'm Learning Right Now
 
 - ⚙️ GitHub Actions (CI/CD)
