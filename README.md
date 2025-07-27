@@ -4,7 +4,6 @@
 
 ---
 
-
 <p align="center">
   🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
   <i>Everything about me in one place: projects, goals & geeky stuff<br>
@@ -50,6 +49,15 @@
 
 ---
 
+## 📈 Recent GitHub Activity
+
+<!--COMMITS-->
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ## 🧠 What I'm Learning Right Now
 
 - ⚙️ GitHub Actions (CI/CD)
@@ -70,15 +78,14 @@
 
 ## 🧰 Skills
 
-`Linux` · `Apache` · `MySQL` · `PHP` · `Laravel` · `Bash`  
-`Docker (learning)` · `Git & GitHub` · `CI/CD Basics` · `Markdown`
+Linux · Apache · MySQL · PHP · Laravel · Bash  
+Docker (learning) · Git & GitHub · CI/CD Basics · Markdown
 
 ---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamtufail01&theme=github-compact" alt="Activity Graph" />
 </p>
-
 
 ## 📢 Connect With Me
 
