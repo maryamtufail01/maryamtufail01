@@ -70,8 +70,9 @@
 
 ## 🧰 Skills
 
-Linux · Apache · MySQL · PHP · Laravel · Bash  
-Docker (learning) · Git & GitHub · CI/CD Basics · Markdown
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=22A4F7&center=true&width=1000&lines=🧰+Skills;Linux+·+Apache+·+MySQL+·+PHP+·+Laravel+·+Bash;Docker+(learning)+·+Git+%26+GitHub+·+CI%2FCD+Basics+·+Markdown" alt="Typing SVG" />
+</p>
 
 ---
 
