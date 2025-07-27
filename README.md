@@ -23,42 +23,22 @@
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="60" height="60"/>
   </a>
   <a href="https://httpd.apache.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/apache/E95420" alt="Apache" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/apache/E95420" alt="Apache" width="60" height="60"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="60" height="60"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="60" height="60"/>
   </a>
   <a href="https://www.laravel.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="60" height="60"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
-    <img src="https://cdn.simpleicons.org/jenkins/D24939" alt="CI/CD" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="40" height="40"/>
-  </a>
-</p>
+    <img src="https://cdn.simpleicons.org/gnubash
 
 ---
 
