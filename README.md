@@ -1,8 +1,16 @@
-<!-- Typing Effect Title -->
-<h1 align="center">
-  Hi there, I'm Maryam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
-<h3 align="center">A DevOps enthusiast exploring the power of automation, containers & cloud ☁️</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=F78A22&center=true&width=1000&lines=Hi%2C+I'm+Maryam+Tufail;DevOps+Learner+%7C+Linux+Explorer+%7C+Bash+Scripter;Learning+Docker%2C+CI%2FCD%2C+Nginx+and+more" alt="Typing SVG" />
+</p>
+
+
+---
+
+<p align="center">
+  🚀 <b>DevOps Learner</b> &nbsp;|&nbsp; 🐧 <b>Linux Explorer</b> &nbsp;|&nbsp; 🛠️ <b>Bash Scripter</b><br>
+  <i>Everything about me in one place: projects, goals & geeky stuff<br>
+  Just a DevOps nerd building cool things and documenting the chaos.</i>
+</p>
+
 
 ---
 
