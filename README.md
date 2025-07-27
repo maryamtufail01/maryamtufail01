@@ -57,4 +57,52 @@
     <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="60" height="60"/>
   </a>
   <a href="https://www.markdownguide.org/" target="_blank">
-    <img
+    <img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="60" height="60"/>
+  </a>
+</div>
+
+---
+
+## 🧠 What I'm Learning Right Now
+
+- ⚙️ GitHub Actions (CI/CD)
+- 🐳 Docker & Docker Compose
+- 🌐 Nginx configuration
+- 🐘 MySQL and database migrations
+- 📜 Bash scripting with automation
+
+---
+
+## 📦 Featured Projects
+
+### 🎯 [Media App Backend](https://github.com/Maryam12144/media-app-backend)
+Laravel-based backend with user auth, media uploads, MySQL DB & RESTful API.
+
+### 💻 [Media App Frontend](https://github.com/Maryam12144/media-app-frontend)
+React UI for media app, featuring login, signup, dashboard integration with backend.
+
+### 🏋️‍♀️ [MoveMate (Exercise Tracker)](https://github.com/Maryam12144/exercise-app-backend)
+Simple full-stack app to track workouts & habits — built for DevOps practice.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=radical" alt="GitHub stats for maryamtufail01"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryamtufail01&theme=radical" alt="GitHub streak for maryamtufail01"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+- 📫 Email: maryamtufail01@gmail.com
+- 💬 LinkedIn: [linkedin.com/in/maryamtufail01](https://linkedin.com/in/maryamtufail01)
+- 🧑‍💻 Portfolio coming soon!
+
+---
+
+> 👀 “The more you automate, the more you scale.” — Keep pushing forward.
+
