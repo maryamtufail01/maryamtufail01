@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 18 * * 0"  # Every Sunday 11 PM PKT
   workflow_dispatch:
-  
+
 permissions:
   contents: write
 
@@ -26,15 +26,11 @@ jobs:
           plugin_activity_limit: 5
           config_output: svg
 
-      - name: Embed generated SVG in README
-        run: |
-          sed -i '/<!--COMMITS-->/r metrics.svg' README.md
-
       - name: Commit changes
         run: |
           git config --global user.name 'maryamtufail01'
-          git config --global user.email 'maryamtufail190@gmail.com'
-          git add README.md
-          git commit -m "Update README with latest commits" || echo "No changes to commit"
+          git config --global user.email 'maryam.tufail190@gmail.com'
+          git add metrics.svg
+          git commit -m "Update metrics.svg with latest GitHub activity" || echo "No changes to commit"
           git pull --rebase origin main
           git push
