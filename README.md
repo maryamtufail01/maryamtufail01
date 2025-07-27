@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tools, Tech & Skills</h2>
+<h2>🛠️ Tools, Tech & Skills</h2>
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
