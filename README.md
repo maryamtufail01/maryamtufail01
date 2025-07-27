@@ -81,18 +81,13 @@
 
 ---
 
-## 📦 Featured Projects
+## 🛠️ Featured Projects
 
-### 🎯 [Media App Backend](https://github.com/Maryam12144/media-app-backend)
-Laravel-based backend with user auth, media uploads, MySQL DB & RESTful API.
-
-### 💻 [Media App Frontend](https://github.com/Maryam12144/media-app-frontend)
-React UI for media app, featuring login, signup, dashboard integration with backend.
-
-### 🏋️‍♀️ [MoveMate (Exercise Tracker)](https://github.com/Maryam12144/exercise-app-backend)
-Simple full-stack app to track workouts & habits — built for DevOps practice.
-
----
+| Name | Description | Tech |
+|------|-------------|------|
+| [Exercise App Backend](https://github.com/maryamtufail01/exercise-app-backend) | Laravel API for tracking workouts | Laravel, MySQL |
+| [Media App Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend with login/signup | React, Axios |
+| more coming soon... |
 
 ## 📊 GitHub Stats
 
