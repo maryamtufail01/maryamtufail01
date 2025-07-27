@@ -99,13 +99,26 @@
 
 ---
 
-## 🌐 Let's Connect
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamtufail01&theme=github-compact" alt="Activity Graph" />
+</p>
 
-- 📫 Email: maryamtufail01@gmail.com
-- 💬 LinkedIn: [linkedin.com/in/maryamtufail01](https://linkedin.com/in/maryamtufail01)
-- 🧑‍💻 Portfolio coming soon!
+## 📢 Connect With Me
+
+<p align="center">
+  <a href="mailto:maryamtufail01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/maryamtufail01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maryam-tufail">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 
 <p align="center"><i>"Keep going until it clicks; then automate it."</i></p>
 
