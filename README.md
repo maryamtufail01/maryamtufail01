@@ -111,8 +111,7 @@ Simple full-stack app to track workouts & habits — built for DevOps practice.
 - 🧑‍💻 Portfolio coming soon!
 
 ---
----
 
 <p align="center"><i>"Keep going until it clicks; then automate it."</i></p>
-is there something wrong?
+
 
