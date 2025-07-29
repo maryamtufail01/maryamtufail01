@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=onedark&column=7" />
 </p>
 
 ---
