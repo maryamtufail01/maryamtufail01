@@ -4,12 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/maryamtufail01/exercise-app-backend/actions/workflows/backend.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/maryamtufail01/exercise-app-backend/backend.yml?branch=main&style=for-the-badge" alt="Build Status" />
+    <img src="https://img.shields.io/github/actions/workflow/status/maryamtufail01/exercise-app-backend/backend.yml?branch=main&style=for-the-badge" alt="Build Status" height="28"/>
   </a>
   <a href="https://codecov.io/gh/maryamtufail01/exercise-app-backend">
-    <img src="https://codecov.io/gh/maryamtufail01/exercise-app-backend/branch/main/graph/badge.svg?style=for-the-badge" alt="Code Coverage" />
+    <img src="https://codecov.io/gh/maryamtufail01/exercise-app-backend/branch/main/graph/badge.svg?style=for-the-badge" alt="Code Coverage" height="28"/>
   </a>
 </p>
+
 
 
 ---
