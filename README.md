@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=F78A22&center=true&width=1000&lines=Hi%2C+I'm+Maryam+Tufail;DevOps+Learner+%7C+Linux+Explorer+%7C+Bash+Scripter;Learning+Docker%2C+CI%2FCD%2C+Nginx+and+more" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/maryamtufail01/exercise-app-backend/actions/workflows/backend.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/maryamtufail01/exercise-app-backend/backend.yml?branch=main&style=for-the-badge" alt="Build Status" />
+  </a>
+  <a href="https://codecov.io/gh/maryamtufail01/exercise-app-backend">
+    <img src="https://codecov.io/gh/maryamtufail01/exercise-app-backend/branch/main/graph/badge.svg?style=for-the-badge" alt="Code Coverage" />
+  </a>
+</p>
+
 
 ---
 
@@ -18,15 +27,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=onedark&column=7" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/maryamtufail01/exercise-app-backend/actions/workflows/backend.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/maryamtufail01/exercise-app-backend/backend.yml?branch=main&style=for-the-badge" alt="Build Status" />
-  </a>
-  <a href="https://codecov.io/gh/maryamtufail01/exercise-app-backend">
-    <img src="https://codecov.io/gh/maryamtufail01/exercise-app-backend/branch/main/graph/badge.svg?style=for-the-badge" alt="Code Coverage" />
-  </a>
 </p>
 
 
