@@ -20,6 +20,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=maryamtufail01&theme=onedark&column=7" />
 </p>
 
+<p align="center">
+  <img src="https://codecov.io/gh/maryamtufail01/exercise-app-backend/branch/main/graph/badge.svg" alt="Code Coverage Badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
