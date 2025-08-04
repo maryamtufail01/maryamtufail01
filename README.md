@@ -109,6 +109,24 @@
 | [Media App Frontend](https://github.com/Maryam12144/media-app-frontend) | React frontend with login/signup | React, Axios |
 | more coming soon... |
 
+---
+## 🌟 Highlighted DevOps Project: MoveMate
+
+**MoveMate** is a minimal full-stack app created to **demonstrate professional DevOps skills**:  
+- Laravel **backend API** (Signup/Login/Logout)  
+- React **frontend dashboard** with welcome message  
+- **Deployed on AWS EC2** with Apache, SSL (Let’s Encrypt), automatic backups & firewall  
+
+🎥 **Demo Video:** [Watch Here](https://youtu.be/3gB2V_853ew)  
+
+🔹 **Repositories:**  
+- **Backend:** [exercise-app-backend](https://github.com/maryamtufail01/exercise-app-backend)  
+- **Frontend:** [exercise-app-frontend](https://github.com/maryamtufail01/exercise-app-frontend)  
+
+> 💡 *Live demo is optional and may be offline to save AWS free-tier credits. The YouTube demo above shows the workflow.*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
