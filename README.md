@@ -64,6 +64,10 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="60" height="60"/>
   </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="60" height="60"/>
+</a>
+
 
   <!-- DevOps & Cloud -->
   <a href="https://www.docker.com/" target="_blank">
