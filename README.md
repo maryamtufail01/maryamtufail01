@@ -266,52 +266,6 @@ Experience includes:
 
 ---
 
-## 💼 Experience
-
-### DevOps Engineer — Iberix Global
-
-**August 2024 – Present · Remote**
-
-* Provision AWS infrastructure including VPC, EC2, EKS, RDS, S3, and IAM using Terraform.
-* Maintain reusable Terraform modules and remote state across development, staging, and production.
-* Build CI/CD pipelines using GitHub Actions and GitLab CI.
-* Build, test, scan, and push Docker images to Amazon ECR.
-* Deploy and operate containerized services on Amazon EKS using Helm.
-* Manage GitOps-based releases with Argo CD and automated rollbacks.
-* Automate Linux configuration, patching, and Nginx/Apache setup using Ansible and Bash.
-* Implement monitoring and alerting using Prometheus, Grafana, Loki, and CloudWatch.
-* Integrate Trivy and SonarQube into delivery pipelines.
-* Manage secrets using HashiCorp Vault and AWS Secrets Manager.
-* Apply least-privilege IAM practices.
-* Deploy and scale LLM-powered services using Amazon Bedrock, Ollama, and vLLM on Kubernetes.
-* Use AI coding assistants including Claude Code and GitHub Copilot for infrastructure, pipeline, and scripting work.
-
----
-
-### System Administrator & Network Engineer — University of South Asia
-
-**April 2022 – August 2024 · Lahore, Pakistan**
-
-* Administered Linux and Windows Server infrastructure hosting LMS, student portal, and email services.
-* Maintained campus networking across multiple buildings.
-* Worked with VLANs, routing, switching, firewalls, and staff VPN access.
-* Managed DNS, DHCP, Active Directory, Nginx, Apache, SSL, and load balancing.
-* Automated user provisioning, backups, and routine maintenance using Bash and Python.
-* Piloted AWS EC2 and S3 for off-site backups and disaster recovery.
-* Containerized internal web applications using Docker Compose and Nginx reverse proxies.
-* Introduced Prometheus and Grafana alerting.
-* Hardened servers through patching, SSH key authentication, and least-privilege practices.
-
----
-
-## 🎓 Education
-
-**MS Computer Science (MSCS)**
-Virtual University of Pakistan
-**September 2024 · Lahore, Pakistan**
-
----
-
 ## 🏅 Certification
 
 <p align="center">
