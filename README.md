@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/1404d7d7-5d5f-421c-9c08-2936fd4318a0/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
   </a>
 </p>
 
@@ -18,77 +18,75 @@
 
 ## 👩‍💻 About Me
 
-I'm a **DevOps Engineer with 4+ years of infrastructure experience**, with a foundation in **Linux systems administration and enterprise networking**.
+DevOps / Cloud Engineer with a strong foundation in **Linux systems administration, enterprise networking, cloud infrastructure, and automation**.
 
-I work across cloud infrastructure, container orchestration, Infrastructure as Code, CI/CD, GitOps, observability, DevSecOps, and LLM-powered services.
+My technical interests and focus areas include:
 
-My core areas include:
-
-* ☁️ AWS infrastructure
-* ☸️ Kubernetes and Amazon EKS
-* 🏗️ Terraform and Ansible
-* 🐳 Docker and Helm
-* 🔄 CI/CD and GitOps
-* 📊 Monitoring and observability
-* 🔐 DevSecOps and secrets management
-* 🤖 LLM deployment and infrastructure
-* 🐧 Linux systems administration
-* 🌐 Enterprise networking
+* ☁️ Cloud infrastructure
+* ☸️ Kubernetes & container orchestration
+* 🏗️ Infrastructure as Code
+* 🔄 CI/CD & GitOps
+* 📊 Observability
+* 🔐 DevSecOps
+* 🤖 AI & LLMOps
+* 🐧 Linux & systems engineering
+* 🌐 Networking & infrastructure automation
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🛠️ Tech Stack
 
-### AWS
+### ☁️ Cloud
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-## 🏗️ Infrastructure as Code
+### 🏗️ Infrastructure as Code
 
 <p align="center">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-* Reusable Terraform modules
-* Remote Terraform state
-* Development, staging, and production environments
-* Automated Linux server configuration
-* Infrastructure provisioning and maintenance
+`Terraform` `Ansible`
+
+* Reusable infrastructure modules
+* Remote state
+* Environment-based infrastructure
+* Configuration automation
 
 ---
 
-## ☸️ Containers & Orchestration
+### ☸️ Containers & Orchestration
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
-Experience includes deploying and operating containerized services on Kubernetes using Helm and Amazon EKS.
+`Docker` `Docker Compose` `Kubernetes` `Amazon EKS` `Helm`
 
 ---
 
-## 🔄 CI/CD & GitOps
+### 🔄 CI/CD & GitOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -98,75 +96,24 @@ Experience includes deploying and operating containerized services on Kubernetes
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### Delivery Workflow
-
-```text
-┌──────────┐
-│   Code   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│    CI    │
-│ Build    │
-│ Test     │
-│ Scan     │
-└────┬─────┘
-     ↓
-┌──────────┐
-│ Docker   │
-│  Image   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│ Amazon   │
-│   ECR    │
-└────┬─────┘
-     ↓
-┌──────────┐
-│ Argo CD  │
-│  GitOps  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│   EKS    │
-└────┬─────┘
-     ↓
-┌──────────────┐
-│ Observability│
-└──────────────┘
-```
-
-Experience includes:
-
-* Building CI/CD pipelines
-* Automated testing
-* Security scanning
-* Docker image publishing
-* GitOps-based releases
-* Automated rollbacks
+`GitHub Actions` `GitLab CI/CD` `Jenkins` `Argo CD` `Git`
 
 ---
 
-## 📊 Observability
+### 📊 Observability
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 </p>
 
-Focused on:
-
-* Monitoring
-* Alerting
-* Log aggregation
-* Incident detection
-* Root-cause analysis
+`Prometheus` `Grafana` `Loki` `Amazon CloudWatch`
 
 ---
 
-## 🔐 DevSecOps
+### 🔐 DevSecOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
@@ -175,59 +122,53 @@ Focused on:
   <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-Security practices include:
-
-* Container image scanning
-* CI/CD security scanning
-* Secrets management
-* Least-privilege IAM
-* Server hardening
-* SSH key authentication
+`Trivy` `SonarQube` `HashiCorp Vault` `AWS Secrets Manager`
 
 ---
 
 ## 🤖 AI & LLMOps
 
-Experience with the infrastructure and deployment of **LLM-powered services**.
+A dedicated area of interest around **LLM deployment and infrastructure**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
 ### Technologies
 
 `Amazon Bedrock` `Ollama` `vLLM` `Kubernetes` `pgvector` `MLflow`
 
-### AI Development Tools
+### AI Tools
 
 `GitHub Copilot` `Claude Code`
 
-### Focus
+### Focus Areas
 
-* Deploying LLM-powered services
-* Self-hosting models
-* Running models with Ollama and vLLM
-* Deploying AI workloads on Kubernetes
+* LLM-powered services
+* Model deployment
+* Self-hosted models
+* Ollama & vLLM
+* Kubernetes-based AI workloads
 
 ---
 
-## 🐧 Systems Administration
-
-### Linux & Windows
+## 🐧 Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-`Active Directory` `Nginx` `Apache` `SSH`
+`Linux` `Ubuntu` `RHEL` `Windows Server` `Active Directory` `Nginx` `Apache` `SSH`
 
-### Automation
+---
+
+## 💻 Scripting & Automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -235,16 +176,7 @@ Experience with the infrastructure and deployment of **LLM-powered services**.
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
 </p>
 
-Experience includes:
-
-* Linux server configuration
-* Server patching
-* Nginx and Apache setup
-* User provisioning
-* Backups
-* Routine maintenance
-* Server hardening
-* SSH key authentication
+`Bash` `Python` `YAML` `Ansible`
 
 ---
 
@@ -282,6 +214,7 @@ Experience includes:
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -308,8 +241,4 @@ Experience includes:
   <a href="https://github.com/maryamtufail01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Building infrastructure. Automating delivery. Exploring what's next.</i>
 </p>
