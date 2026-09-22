@@ -5,26 +5,13 @@
 </p>
 
 <p align="center">
+  AWS • Kubernetes • Terraform • CI/CD • GitOps • DevSecOps • LLMOps
+</p>
+
+<p align="center">
   <a href="https://www.credly.com/badges/1404d7d7-5d5f-421c-9c08-2936fd4318a0/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
 ---
@@ -33,23 +20,20 @@
 
 I'm a **DevOps Engineer with 4+ years of infrastructure experience**, with a foundation in **Linux systems administration and enterprise networking**.
 
-My work spans cloud infrastructure, containerized platforms, Infrastructure as Code, CI/CD, GitOps, observability, DevSecOps, and LLM-powered services.
+I work across cloud infrastructure, container orchestration, Infrastructure as Code, CI/CD, GitOps, observability, DevSecOps, and LLM-powered services.
 
-I enjoy working across the infrastructure lifecycle:
+My core areas include:
 
-```text
-Infrastructure
-      ↓
-Automation
-      ↓
-CI/CD
-      ↓
-Deployment
-      ↓
-Observability
-      ↓
-Security
-```
+* ☁️ AWS infrastructure
+* ☸️ Kubernetes and Amazon EKS
+* 🏗️ Terraform and Ansible
+* 🐳 Docker and Helm
+* 🔄 CI/CD and GitOps
+* 📊 Monitoring and observability
+* 🔐 DevSecOps and secrets management
+* 🤖 LLM deployment and infrastructure
+* 🐧 Linux systems administration
+* 🌐 Enterprise networking
 
 ---
 
@@ -58,90 +42,119 @@ Security
 ### AWS
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55"/>
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="55"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="55"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="55"/>
-  <img src="https://cdn.simpleicons.org/helm/0F1689" width="55"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </p>
 
-**AWS services:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
+</p>
 
-`EC2` `S3` `IAM` `VPC` `RDS` `Lambda` `EKS` `ECR` `CloudWatch` `Route 53`
+---
 
-### Infrastructure as Code
+## 🏗️ Infrastructure as Code
 
-`Terraform` `Ansible`
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
 
 * Reusable Terraform modules
 * Remote Terraform state
 * Development, staging, and production environments
-* Automated server configuration and maintenance
+* Automated Linux server configuration
+* Infrastructure provisioning and maintenance
 
 ---
 
-## ☸️ Containers & Kubernetes
+## ☸️ Containers & Orchestration
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="65"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="65"/>
-  <img src="https://cdn.simpleicons.org/helm/0F1689" width="65"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
-**Technologies**
-
-`Docker` `Docker Compose` `Kubernetes` `Amazon EKS` `Helm`
-
-I work with containerized services running on Kubernetes, including Helm-based deployments and GitOps-managed releases.
+Experience includes deploying and operating containerized services on Kubernetes using Helm and Amazon EKS.
 
 ---
 
 ## 🔄 CI/CD & GitOps
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="55"/>
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="55"/>
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" width="55"/>
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="55"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="55"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-`GitHub Actions` `GitLab CI/CD` `Jenkins` `Argo CD` `Git`
-
-### Delivery workflow
+### Delivery Workflow
 
 ```text
-Code
- ↓
-CI Pipeline
- ↓
-Build & Test
- ↓
-Security Scanning
- ↓
-Docker Image
- ↓
-Amazon ECR
- ↓
-Argo CD
- ↓
-Amazon EKS
- ↓
-Monitoring
+┌──────────┐
+│   Code   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│    CI    │
+│ Build    │
+│ Test     │
+│ Scan     │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ Docker   │
+│  Image   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ Amazon   │
+│   ECR    │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ Argo CD  │
+│  GitOps  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   EKS    │
+└────┬─────┘
+     ↓
+┌──────────────┐
+│ Observability│
+└──────────────┘
 ```
 
-Experience includes automated builds, testing, security scanning, container image publishing, GitOps-based releases, and automated rollbacks.
+Experience includes:
+
+* Building CI/CD pipelines
+* Automated testing
+* Security scanning
+* Docker image publishing
+* GitOps-based releases
+* Automated rollbacks
 
 ---
 
 ## 📊 Observability
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="60"/>
-  <img src="https://cdn.simpleicons.org/grafana/F46800" width="60"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 </p>
-
-`Prometheus` `Grafana` `Loki` `Amazon CloudWatch`
 
 Focused on:
 
@@ -155,24 +168,19 @@ Focused on:
 
 ## 🔐 DevSecOps
 
-Security is integrated into the infrastructure and delivery workflow.
-
 <p align="center">
-
-<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="50"/>
-<img src="https://cdn.simpleicons.org/vault/000000" width="50"/>
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50"/>
-
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-`Trivy` `SonarQube` `HashiCorp Vault` `AWS Secrets Manager`
+Security practices include:
 
-Also working with:
-
-* Least-privilege IAM
-* Secrets management
 * Container image scanning
 * CI/CD security scanning
+* Secrets management
+* Least-privilege IAM
 * Server hardening
 * SSH key authentication
 
@@ -180,13 +188,13 @@ Also working with:
 
 ## 🤖 AI & LLMOps
 
-One of the areas I work with is the **deployment and scaling of LLM-powered services**.
+Experience with the infrastructure and deployment of **LLM-powered services**.
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="55"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="55"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="55"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### Technologies
@@ -206,61 +214,101 @@ One of the areas I work with is the **deployment and scaling of LLM-powered serv
 
 ---
 
-## 🐧 Systems & Networking
+## 🐧 Systems Administration
 
-My infrastructure foundation comes from **Linux systems administration and enterprise networking**.
+### Linux & Windows
 
-### Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-`Ubuntu` `RHEL` `Windows Server` `Active Directory` `Nginx` `Apache` `SSH`
+`Active Directory` `Nginx` `Apache` `SSH`
 
 ### Automation
 
-`Bash` `Python` `Ansible` `YAML`
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+</p>
 
-### Networking
+Experience includes:
 
-`TCP/IP` `DNS` `DHCP` `VLANs` `Routing & Switching` `Firewalls` `VPN` `Load Balancing`
+* Linux server configuration
+* Server patching
+* Nginx and Apache setup
+* User provisioning
+* Backups
+* Routine maintenance
+* Server hardening
+* SSH key authentication
 
 ---
 
-## 💼 Professional Experience
+## 🌐 Networking
 
-### DevOps Engineer
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLANs-005571?style=for-the-badge"/>
+</p>
 
-**Iberix Global** · Remote
-`August 2024 – Present`
+<p align="center">
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firewalls-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPN-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load%20Balancing-005571?style=for-the-badge"/>
+</p>
 
-* Provision AWS infrastructure using Terraform across development, staging, and production.
-* Work with VPC, EC2, EKS, RDS, S3, and IAM.
+---
+
+## 💼 Experience
+
+### DevOps Engineer — Iberix Global
+
+**August 2024 – Present · Remote**
+
+* Provision AWS infrastructure including VPC, EC2, EKS, RDS, S3, and IAM using Terraform.
+* Maintain reusable Terraform modules and remote state across development, staging, and production.
 * Build CI/CD pipelines using GitHub Actions and GitLab CI.
-* Build, test, scan, and publish Docker images to Amazon ECR.
-* Deploy containerized services to Amazon EKS using Helm.
-* Manage GitOps releases with Argo CD and automated rollbacks.
-* Automate Linux configuration and server maintenance using Ansible and Bash.
-* Implement monitoring and alerting with Prometheus, Grafana, Loki, and CloudWatch.
+* Build, test, scan, and push Docker images to Amazon ECR.
+* Deploy and operate containerized services on Amazon EKS using Helm.
+* Manage GitOps-based releases with Argo CD and automated rollbacks.
+* Automate Linux configuration, patching, and Nginx/Apache setup using Ansible and Bash.
+* Implement monitoring and alerting using Prometheus, Grafana, Loki, and CloudWatch.
 * Integrate Trivy and SonarQube into delivery pipelines.
-* Manage secrets using Vault and AWS Secrets Manager.
+* Manage secrets using HashiCorp Vault and AWS Secrets Manager.
 * Apply least-privilege IAM practices.
 * Deploy and scale LLM-powered services using Amazon Bedrock, Ollama, and vLLM on Kubernetes.
+* Use AI coding assistants including Claude Code and GitHub Copilot for infrastructure, pipeline, and scripting work.
 
 ---
 
-### System Administrator & Network Engineer
+### System Administrator & Network Engineer — University of South Asia
 
-**University of South Asia** · Lahore, Pakistan
-`April 2022 – August 2024`
+**April 2022 – August 2024 · Lahore, Pakistan**
 
-* Administered Linux and Windows Server infrastructure.
-* Supported LMS, student portal, and email infrastructure.
-* Maintained multi-building campus networking.
-* Worked with VLANs, routing, switching, firewalls, and VPN access.
+* Administered Linux and Windows Server infrastructure hosting LMS, student portal, and email services.
+* Maintained campus networking across multiple buildings.
+* Worked with VLANs, routing, switching, firewalls, and staff VPN access.
 * Managed DNS, DHCP, Active Directory, Nginx, Apache, SSL, and load balancing.
-* Automated provisioning, backups, and maintenance using Bash and Python.
+* Automated user provisioning, backups, and routine maintenance using Bash and Python.
 * Piloted AWS EC2 and S3 for off-site backups and disaster recovery.
-* Containerized internal applications using Docker Compose and Nginx.
+* Containerized internal web applications using Docker Compose and Nginx reverse proxies.
 * Introduced Prometheus and Grafana alerting.
 * Hardened servers through patching, SSH key authentication, and least-privilege practices.
+
+---
+
+## 🎓 Education
+
+**MS Computer Science (MSCS)**
+Virtual University of Pakistan
+**September 2024 · Lahore, Pakistan**
 
 ---
 
@@ -268,7 +316,7 @@ My infrastructure foundation comes from **Linux systems administration and enter
 
 <p align="center">
   <a href="https://www.credly.com/badges/1404d7d7-5d5f-421c-9c08-2936fd4318a0/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
 </p>
 
@@ -280,18 +328,13 @@ My infrastructure foundation comes from **Linux systems administration and enter
 
 ---
 
-## 🎓 Education
-
-**MS Computer Science**
-Virtual University of Pakistan · Lahore, Pakistan
-`September 2024`
-
----
-
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryamtufail01&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryamtufail01&theme=transparent&hide_border=true" />
 </p>
 
@@ -303,9 +346,11 @@ Virtual University of Pakistan · Lahore, Pakistan
   <a href="mailto:maryamtufail190@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/maryam-tufail">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/maryamtufail01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
